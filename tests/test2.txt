@@ -1,0 +1,7 @@
+(set a (+ 1 5)) ; Scheme uses prefix notation
+(set b (* (+ a 1) (- a 1))) ; b is a^2 - 1
+#| Isn't this fun? Seeing Scheme programs.
+
+And yet we know nothing about Scheme. Except
+what comments look like. |#
+(set c (+ (* a a)#| the square|#(* b b)#| the OTHER square|#))

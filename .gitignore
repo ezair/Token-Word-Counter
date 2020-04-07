@@ -1,0 +1,85 @@
+### Gradle ignores ###
+
+# Ignore Gradle project-specific cache directory.
+.gradle
+
+# Ignore Gradle build output directory.
+build
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Ignore Gradle GUI config.
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+#############DR. LADD GIT ADD #####################################
+!gradle-wrapper.jar
+
+# Cache of project.
+.gradletasknamecache
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# UN-ignore the gradle-wrapper Java archive; lets gradlew work in checked out directory
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+**/.idea/
+*.iml
+
+# Not needed.
+.classpath
+.project
+
+# A test file tht does not need to be pulled by other users.
+test.txt
+
+# Created by https://www.gitignore.io/api/java,gradle
+
+### Java ###
+*.class
+
+# BlueJ files
+*.ctxt
+#################################################################
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+### VS code ignores ###
+.vscode
+
+### General things that should always be ignored ###
+.DS_Store
+pycache
+*.bat
+.gitattributes
+
+### Doxygen ignores ###
+doc/html
+doc/latex

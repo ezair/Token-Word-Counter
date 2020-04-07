@@ -1,0 +1,15 @@
+
+     This is a test...#
+
+    And this is the second ; line of the test.
+Still doing testing and stuffs #;
+
+Woot woot
+    I'm here now :)
+
+    #|This is should be deleted|# but not this; this can.
+
+        Still though: #| here to | right about here |# should be taken out.
+
+                Finally, #| from here #| to al the way over here | was |# taken out ;
+#   :)
